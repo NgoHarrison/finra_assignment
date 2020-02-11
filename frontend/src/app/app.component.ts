@@ -1,7 +1,6 @@
 import { Component, OnInit } from "@angular/core";
 import { NumberserviceService } from "./numberservice.service";
 import {
-  FormBuilder,
   FormControl,
   FormGroup
 } from "@angular/forms";
@@ -19,8 +18,7 @@ export class AppComponent implements OnInit {
   display_table: boolean;
   numberlist: string[];
   constructor(
-    private numberservice: NumberserviceService,
-    private fb: FormBuilder
+    private numberservice: NumberserviceService
   ) {
     this.data = "";
   }
