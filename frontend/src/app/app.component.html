@@ -1,0 +1,35 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center">
+  <h1>
+    Welcome to Finra Assignment!
+  </h1>
+
+  <div class="container">
+    <form [formGroup]="formData" (ngSubmit)="getComb()">
+      <input
+        type="text"
+        formControlName="data"
+        name="search"
+        placeholder="Search.."
+      />
+    </form>
+  </div>
+</div>
+<div *ngIf="display_table">
+  <h2>Results: {{ numberlist.length }}</h2>
+  <ul class="list-group">
+    <li
+      class="list-group-item"
+      *ngFor="
+        let num of numberlist | paginate: { itemsPerPage: 10, currentPage: p }
+      "
+    >
+      {{ num }}
+    </li>
+  </ul>
+
+  <pagination-controls (pageChange)="p = $event"></pagination-controls>
+</div>
+<div class="container" *ngIf="show_error">
+  <h3>Please enter a valid 7 digit or 10 digit number</h3>
+</div>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6d73629-9be4-431a-a859-ab24fe96bbdd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finraServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/finraServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/finraServerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/finraServerTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1XdnLFsQgi1ybwsulUpUhhajfN3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.finraServer">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="finraServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finraServer" />
+      <module name="finra_server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="finraServerTest.getComb" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="finra_server" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="finraServerTest" />
+      <option name="METHOD_NAME" value="getComb" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.finraServer" />
+        <item itemvalue="JUnit.finraServerTest.getComb" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6d73629-9be4-431a-a859-ab24fe96bbdd" name="Default Changelist" comment="" />
+      <created>1581384780573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581384780573</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="202" key="GridCell.Tab.0.bottom" timestamp="1581397325039">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1358" height="202" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1581397325039" />
+    <state width="1358" height="202" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1581389319419" />
+    <state width="1358" height="202" key="GridCell.Tab.0.center" timestamp="1581397325038">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1358" height="202" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1581397325038" />
+    <state width="1358" height="202" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1581389319418" />
+    <state width="1358" height="202" key="GridCell.Tab.0.left" timestamp="1581397325038">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1358" height="202" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1581397325038" />
+    <state width="1358" height="202" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1581389319418" />
+    <state width="1358" height="202" key="GridCell.Tab.0.right" timestamp="1581397325039">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1358" height="202" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1581397325039" />
+    <state width="1358" height="202" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1581389319419" />
+    <state x="399" y="251" key="com.intellij.ide.util.TipDialog" timestamp="1581395884284">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="399" y="251" key="com.intellij.ide.util.TipDialog/0.23.1440.831@0.23.1440.831" timestamp="1581395884284" />
+    <state x="499" y="152" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1581391564922">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="499" y="152" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.831@0.23.1440.831" timestamp="1581391564922" />
+  </component>
+</project>
